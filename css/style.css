@@ -263,7 +263,7 @@ img {
     position: relative;
     z-index: 5;
     transition: all 500ms ease 0s;
-    background-color: rgba(20, 20, 20, 0.2) !important;
+    background-color: rgb(131 27 0 / 55%) !important;
 }
 
 .main-header .header-upper .logo img {
