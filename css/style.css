@@ -1426,7 +1426,7 @@ img {
     width: 100%;
     height: 100%;
     display: block;
-    background-color: rgba(53, 53, 53, 0.8);
+    background-color: rgb(195 129 89 / 70%);
 }
 
 .counter-section .title-column {
@@ -4484,7 +4484,7 @@ img {
 }
 
 .visit-tailor-area .tailor-offers {
-    background-image: url("../images/about/ser-2.jpg");
+    background-image: url("../images/ser-2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
