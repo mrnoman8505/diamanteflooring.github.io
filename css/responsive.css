@@ -355,16 +355,16 @@
 	}
 	
 	.main-menu .navbar-header .navbar-toggle{
-		display:inline-block;
-		z-index:7;
-		top:-4px;
-		border:1px solid #d68112;
-		float:none;
-		margin:0px 0px 0px 0px;
-		border-radius:0px;
-		background:#d68112;
-	}
+		display: inline-block;
+		z-index: 7;
+		top: -4px;
+		border: 1px solid #c38159;
+		float: none;
+		margin: 0px 0px 0px 0px;
+		border-radius: 0px;
+		background: #c38159;
 	
+	}
 	.header-type-one .navbar-header .navbar-toggle{
 		float:right;
 		top:0px;
