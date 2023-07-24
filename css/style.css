@@ -994,6 +994,29 @@ img {
     margin-top: -50px !important;
 }
 
+
+@media (max-width: 578px) {
+    .main-slider h2 {
+        font-size: 22px !important;
+        line-height: 1.2 !important;
+    }
+
+    .main-slider .text {
+        font-size: 13px !important;
+        margin-top: -13px !important;
+
+    }
+
+    .main-slider .tp-caption .theme-btn {
+        border-width: 2px !important;
+        font-size: 9px !important;
+        padding: 10px !important;
+        margin-top: 10px !important;
+    }
+}
+
+
+
 .main-slider .btn-style-one {
     color: rgb(255, 255, 255) !important;
 }
@@ -4625,4 +4648,9 @@ img {
     font-size: 15px;
     color: rgb(255, 0, 0);
     font-weight: 400;
+}
+
+
+.pad-lr{
+    margin: 0 15px !important;
 }
