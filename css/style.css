@@ -4655,8 +4655,17 @@ img {
     margin: 0 15px !important;
 }
 @media (max-width: 768px) {
-    .upper-column info-box{
+    .main-header .header-upper .upper-column.info-box{
         display:none !important;
     }
+    .header-type-one .header-upper {
+        background-color: rgb(255 255 255) !important;
+    }
+    .main-header .cart-btn .shop-icon {
+        color: rgb(195 129 89);
+        border: 2px solid rgb(195 129 89);
+    }
 }
+
+
 
