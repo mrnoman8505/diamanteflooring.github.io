@@ -263,7 +263,8 @@ img {
     position: relative;
     z-index: 5;
     transition: all 500ms ease 0s;
-    background-color: rgb(131 27 0 / 55%) !important;
+    background-clip: inherit;
+    background-color: rgb(159 38 6 / 50%) !important;
 }
 
 .main-header .header-upper .logo img {
@@ -792,7 +793,7 @@ img {
     background-attachment: inherit;
     background-origin: inherit;
     background-clip: inherit;
-    background-color: rgba(179, 111, 93, 0.2) !important;
+    background-color: rgb(159 38 6 / 50%) !important;
 }
 
 .social-icon-one {
