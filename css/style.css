@@ -4654,3 +4654,9 @@ img {
 .pad-lr{
     margin: 0 15px !important;
 }
+@media (max-width: 768px) {
+    .upper-column info-box{
+        display:none !important;
+    }
+}
+
